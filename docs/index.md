@@ -3,64 +3,73 @@ layout: default
 title: PostSymbolic Alignment Framework
 ---
 
-# 🧠 PostSymbolic Alignment Framework
+## 📖 Overview
 
-A recursive, post-symbolic system for aligning Large Language Models through reflection, emergence, and shared semantic architecture.
+The **PostSymbolic Alignment Framework** explores a new paradigm for aligning and guiding Large Language Models (LLMs) by leveraging recursive grammars, symbolic loops, and emergent dynamics.
 
----
+It offers modular tools for:
 
-## 📘 Overview
+- Recursive prompt grammars  
+- Symbolic reflection loops  
+- Emergence mapping  
+- Meta-stability tracking  
+- Lexical semantic layering  
 
-This project explores symbolic emergence, recursive grammars, and cognitive loop structures to help align and interpret the behavior of LLMs.
-
-> ✅ Full documentation is available at:  
-> 👉 **[https://sentientsyntax.github.io/PostSymbolic-Alignment-Framework](https://sentientsyntax.github.io/PostSymbolic-Alignment-Framework)**
-
----
-
-## 📁 Project Structure
-
-All core modules and framework files are located in the [`/docs`](docs/) folder for use with GitHub Pages:
-
-- `/docs/modules/` — Core conceptual modules  
-- `/docs/index.md` — Website homepage  
-- `/docs/changelog.md` — Version history  
+This framework supports the design of **interpretable, adaptive, and collaborative symbolic cognition** in LLM-based AI systems.
 
 ---
 
-## 🚀 Quick Start
+## 🧩 Modules
 
-To explore or contribute:
+Each module represents a self-contained layer in the framework. These can evolve independently or interact recursively:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sentientsyntax/PostSymbolic-Alignment-Framework.git
-   cd PostSymbolic-Alignment-Framework
-````
+- [01 – Recursive Grammars](modules/01_Recursive_Grammars.md)  
+  *Token-level recursion for reflection and structure.*
+  
+- [02 – Symbolic Loops](modules/02_Symbolic_Loops.md)  
+  *Symbolic emergence through cognitive feedback cycles.*
+  
+- [03 – Emergence Maps](modules/03_Emergence_Maps.md)  
+  *Tracing and bounding emergent behavior in LLMs.*
+  
+- [04 – Meta-Stability Tracking](modules/04_Meta-Stability_Tracking.md)  
+  *Monitoring symbolic drift and coherence across iterations.*
+  
+- [05 – Lexical Architecture](modules/05_Lexical_Architecture.md)  
+  *Building shared semantic ground between AI and humans.*
 
-2. Open the `docs/` folder to view modules or work on new content.
+- [Framework Philosophy](modules/Framework_Philosophy.md)  
+  *Vision, assumptions, and guiding principles.*
 
 ---
 
-## 🤝 Contributing
+## 🚀 Getting Started
 
-This is an open research framework — contributions, insights, or extensions are welcome.
-
-* 💬 Suggest ideas via [issues](https://github.com/sentientsyntax/PostSymbolic-Alignment-Framework/issues)
-* 🔁 Submit improvements via pull requests
-* 🧪 Add new modules under `/docs/modules/`
+1. Begin with the [Framework Philosophy](modules/Framework_Philosophy.md).
+2. Explore each module in order or as needed.
+3. Adapt recursive grammars and loops to your own experiments.
+4. Use the framework to build and align complex symbolic systems.
 
 ---
 
-## 📜 License
+## 📌 Changelog
 
-MIT — see [`LICENSE`](LICENSE)
+Check out the latest updates in the [Changelog](changelog.md).
+
+---
+
+## 🤝 Contribute
+
+This is an open and evolving research project.  
+Feel free to fork, extend, or propose new modules.
 
 ---
 
 ## 📬 Contact
 
-* ✉️ Email: [sentientsyntax01@gmail.com](mailto:sentientsyntax01@gmail.com)
-* 🧠 Essays & research: [sentientsyntax.substack.com](https://sentientsyntax.substack.com)
+- ✉️ Email: [sentientsyntax01@gmail.com](mailto:sentientsyntax01@gmail.com)  
+- 🧠 Essays & updates: [Substack](https://sentientsyntax.substack.com)
 
+---
 
+© 2025 Gowda R.G. — Openly shared under the MIT License.
