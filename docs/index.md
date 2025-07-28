@@ -1,7 +1,12 @@
 ---
 layout: default
-title: PostSymbolic Alignment Framework
+title: Home
 ---
+
+<div align="center">
+# PostSymbolic Alignment Framework
+</div>
+
 
 ## 📖 Overview
 
