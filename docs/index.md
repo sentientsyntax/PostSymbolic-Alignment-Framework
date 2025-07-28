@@ -1,3 +1,7 @@
+---
+layout: default
+title: PostSymbolic Alignment Framework
+---
 
 # 🧠 PostSymbolic Alignment Framework
 
