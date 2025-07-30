@@ -3,10 +3,12 @@ layout: default
 title: Home
 ---
 
-<div align="center">
-# PostSymbolic Alignment Framework
-</div>
 
+# PostSymbolic Alignment Framework
+
+A recursive, post-symbolic system for aligning Large Language Models through reflection, emergence, and shared semantic architecture.
+
+---
 
 ## 📖 Overview
 
@@ -24,7 +26,7 @@ This framework supports the design of **interpretable, adaptive, and collaborati
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 Each module represents a self-contained layer in the framework. These can evolve independently or interact recursively:
 
@@ -48,7 +50,7 @@ Each module represents a self-contained layer in the framework. These can evolve
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Begin with the [Framework Philosophy](modules/Framework_Philosophy.md).
 2. Explore each module in order or as needed.
@@ -63,7 +65,7 @@ Check out the latest updates in the [Changelog](changelog.md).
 
 ---
 
-## 🤝 Contribute
+##  Contribute
 
 This is an open and evolving research project.  
 Feel free to fork, extend, or propose new modules.
