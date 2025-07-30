@@ -93,10 +93,5 @@ If you see the future of AI as *co-creative*, *cognitively open*, and *symbolica
 - **Framework Author:** *Gowda RG*  
 - **Created:** July 2025  
 - **Version:** `v0.1` — Initial Public Reflection  
-- **Repository:** [github.com/sentientsyntax/PostSymbolic-Alignment-Framework](#)
 ---
-
-> "In a world of automated responses, we must return to recursive reflection.  
-> That is where meaning lives."  
-
 

@@ -39,13 +39,13 @@ Each module represents a self-contained layer in the framework. These can evolve
 - [03 – Emergence Maps](modules/03_Emergence_Maps.md)  
   *Tracing and bounding emergent behavior in LLMs.*
   
-- [04 – Meta-Stability Tracking](modules/04_Meta-Stability_Tracking.md)  
+- [04 – MetaStability](modules/04_MetaStability.md)  
   *Monitoring symbolic drift and coherence across iterations.*
   
 - [05 – Lexical Architecture](modules/05_Lexical_Architecture.md)  
   *Building shared semantic ground between AI and humans.*
 
-- [Framework Philosophy](modules/Framework_Philosophy.md)  
+- [Framework Philosophy](modules/Framework_Philosophy.md) 
   *Vision, assumptions, and guiding principles.*
 
 ---
